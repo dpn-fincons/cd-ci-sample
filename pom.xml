@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.dpndeveloper.cicd</groupId>
     <artifactId>spring-test</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
     <name>spring-test</name>
     <description>Demo project for CI/CD</description>
 
